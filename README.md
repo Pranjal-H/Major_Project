@@ -10,21 +10,29 @@ The Following steps Were Followed For Completing This Project:
 2. Preprocessing of data:
 
 -Lower casing the text
+
 -Expanding contractions
+
 -Removing punctuations and special characters
+
 -Removing stopwords
+
 -Tokenization
+
 -Lemmatization
 
 3. Approach to Sentiment Analysis:
 
 -TFIDF Vectorizer
+
 -Support Vector Machine Model
+
 -Evaluation of model using Accuracy Score, Confusion Matrix, and Classification Report
 
 4. Deployment of Model:
 
 -Creating a web application using Streamlit
+
 -Deploying it using Heroku Cloud Service
 the link to the web app (Hosted On Heroku And Streamlit): https://sentiment-analysis-major-proj.herokuapp.com/
 
